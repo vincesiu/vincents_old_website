@@ -1,0 +1,69 @@
+backup1
+20140830
+###########
+###########
+###########
+
+<!DOCTYPE html>
+<head>
+<!--last updated: 20140829-->
+	<title>All about Vince!!!</title>
+<!--	<link type="text/css" rel="stylesheet" href="stylesheet.css"/> -->
+<style type="text/css">
+p {color:#FF0000;font-style:italic;}
+</style>
+</head>
+<body>
+
+<p>
+	Hello World
+	I'm a guy who loves video games, anime, dragon boat, learning and programming!
+	<br>
+	I enjoy almost all the music, and I'm a big fan of the web radio site <a href="http://edenofthewest.com/">eden of the west</a>. But mostly, I get my music from my good friend Rob!</a>
+</p>
+<p>asdfasdf</p>
+
+<ol>
+My favorite anime
+<li>Usagi Drop</li>
+	<br>
+<li>Stein's Gate</li>
+<li>Arakawa Under the Bridge</li>
+</ol>
+
+<ol>
+My favorite games
+<li>XCOM: Enemy Within</li>
+<li>Counter Strike: Global Offensive</li>
+<li>To The Moon</li>
+</ol>
+
+
+<p> 
+<em>Games!</em>
+<br>
+I've been playing games since I was little, and it all started with a Game Boy Advance, and Super Mario World! Loved that game to death, but I never got around to finishing it... I had a lot of hand me downs from my brother (Sega Genesis, Game Boy Colour, SNES) and I played on consoles for a while (PS2, Wii) but my love will always be PC gaming. It started with browser based flash games and MMOs (runescape lol), then I moved onto "actual" computer games. Combat Arms, then League of Legends, and then after I got a source of income, Steam games!!!
+<br><br>
+I've always considered myself to be a fps gamer, and thats the thing I'm best at. I never got into the competitive side of fps's until Counter Strike GO, and their matchmaking system. Never tried/got into Source or 1.6
+<br><br>
+Used to play a ton of League of Legends when I was in high school, once I got back from sports practice, I would be on the computer, playing some normals. My best rank was Platinum in season 3, I never got too into the competitive game though. At the time of this writing, estimated 2200 hours of play, with about 3000 normal wins and losses (not counting dominion, aram, and custom games! back in the day when aram was an unnofficial game mode, and people would disrespect the rules and go bot or something...)
+<br><br>
+My favorite genre to play though is turn based strategy, like Civ 5 and XCOM. Advance Wars was like a drug to me in middle school, just a few ruonds would turn into hours of battling. Love the strategy and battling and fun! 
+</p>
+<!--
+<table>
+	<tr><th>My favorite anime!</th></tr>
+	<tr><td>1. Usagi Drop</td></tr>
+	<tr><td>2. Stein's Gate</td></tr>
+	<tr><td>3. Arakawa Under the Bridge</td></tr>
+</table>
+
+<table>
+	<tr><th>My favorite games!</th></tr>
+	<tr><td>1. XCOM: Enemy Within</td></tr>
+	<tr><td>2. Counter Strike: Global Offensive</td></tr>
+	<tr><td>3. To the Moon</td></tr>
+</table>
+-->
+</body>
+</html>
